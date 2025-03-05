@@ -1,0 +1,23 @@
+@import url(variables.css);
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: var(--color-2);
+}
+.section{
+    display: flex;
+    flex-direction: column;
+    margin-top: 100px;
+    margin-left: 64px;
+    width: 400px;
+    height: 200px;
+}
+.section h1{
+    font-family: "Avenir-Heavy";
+    font-size: 56px;
+    line-height: 1.2;
+
+}
