@@ -1,0 +1,15 @@
+@import url(variables.css);
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: var(--color-3);
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    width: 610px;
+    height: 355px;
+}
