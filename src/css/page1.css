@@ -13,3 +13,23 @@ body{
     width: 610px;
     height: 355px;
 }
+
+.title{
+    font-family: "Avenir-Heavy";
+    font-size: 30px;
+    width: 610px;
+    height: 145px;
+    margin-left: 350px;
+    margin-top: 64px;
+    text-align: center;
+}
+.description p{
+    font-family: "Avenir-Roman";
+    font-size: 26px;
+    width: 500px;
+    height: 145px;
+    margin-left: 400px;
+    margin-top: 10px;
+    text-align: center;
+    
+}
