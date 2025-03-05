@@ -21,3 +21,19 @@ body{
     line-height: 1.2;
 
 }
+.section0 p{
+    font-family: "Avenir-Roman";
+    font-size: 25px;
+    line-height: 1.5;
+}
+button{
+    background-color: var(--color-1);
+    color: var(--color-2);
+    font-family: "Avenir-Roman";
+    border: none;
+    border-radius: 16px;
+    width: 180px;
+    height: 40px;
+    margin-top: 160px;
+    margin-left: 64px;
+}
