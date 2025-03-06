@@ -137,5 +137,13 @@
     --color-136: #1E5C60;
     --color-137: #429BA9;
 }
-    
-    
+@font-face {
+    font-family: "Avenir-Heavy";
+    src: url(../stora/font/Avenir\ Heavy.ttf);
+}
+
+@font-face {
+    font-family: "Avenir-Roman";
+    src: url(../stora/font/avenir-roman_freefontdownload_org/avenir-roman.ttf);
+
+}
